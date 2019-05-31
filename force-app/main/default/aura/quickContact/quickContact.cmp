@@ -3,4 +3,5 @@ access="global" >
 <b>I want to eat burger</b>
 <b>I want to eat pizza</b>
 <b>I want to drink water</b>
+<b>I want to drink JUICE</b>
 </aura:component>
