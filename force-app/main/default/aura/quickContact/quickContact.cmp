@@ -1,4 +1,5 @@
 <aura:component implements="flexipage:availableForRecordHome,force:hasRecordId"
 access="global" >
 <b>I want to eat burger</b>
+<b>I want to eat pizza</b>
 </aura:component>
